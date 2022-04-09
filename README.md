@@ -2,6 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/wezelen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezelen&layout=compact&langs_count=7&theme=gruvbox_light"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wezelen&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
