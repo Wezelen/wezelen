@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! eu sou o Wezelen. Estou aprendendo a programar
 
 <div align="left">
   <a href="https://github.com/wezelen">
